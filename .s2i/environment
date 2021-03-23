@@ -1,2 +1,1 @@
 APP_CONFIG=config.py
-PIP_TRUSTED_HOST=pypi.python.org
